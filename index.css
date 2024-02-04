@@ -1,0 +1,178 @@
+.h1{
+    font-size: 68px;
+}
+.p1{
+    width: 450px;
+    font-size: 17px;
+}
+.img1{
+    width: 40px;
+    height: auto;
+    
+}
+.input{
+border: none;
+width: 100%;
+}
+.fs{
+
+    font-size: 17px;
+}
+.img2{
+    width: 20px;
+    height: auto;
+}
+.img3{
+    width: 25px;
+    height: auto;
+}
+.fs1{
+    font-size: 30px;
+}
+.row1{
+    margin-top: 100px;
+}
+.fs3{
+    font-size: 17px;
+}
+.heading{
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+/* lg brack point  */
+@media screen and (max-width:990px) {
+    .h1{
+        font-size: 50px;
+    }
+    .p1{
+        width: 350px;
+        font-size: 14px;
+    }
+    .img1{
+        width: 40px;
+        height: auto;
+        
+    }
+    .input{
+    border: none;
+    width: 100%;
+    }
+    .img2{
+        width: 20px;
+        height: auto;
+    }
+    .img3{
+        width: 20px;
+        height: auto;
+    }
+    .fs{
+        font-size: 14px;
+    }
+    .fs1{
+        font-size: 30px;
+    }
+    .heading{
+        font-size: 24px;
+    }
+
+    .fs3{
+    font-size: 14px;
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* md brack point  */
+@media screen and (max-width:768px) {
+    .h1{
+        font-size: 55px;
+    }
+    .p1{
+        width: 450px;
+        font-size: 20px;
+    }
+    .img1{
+        width: 30px;
+        height: auto;
+        
+    }
+
+    .input{
+    border: none;
+    width: 100%;
+    }
+    .img2{
+        width: 15px;
+        height: auto;
+    }
+    .img3{
+        width: 20px;
+        height: auto;
+    }
+    .fs{
+        font-size: 15px;
+    }
+    .fs1{
+        font-size: 30px;
+    }
+    
+.fs3{
+    font-size: 17px;
+}
+.row1{
+    gap: 30px;
+}
+}
+
+/* md brack point  */
+@media screen and (max-width:576px) {
+    .h1{
+        font-size: 40px;
+    }
+    .p1{
+        width: 300px;
+
+        font-size: 15px;
+    }
+    .img1{
+        width: 30px;
+        height: auto;
+        
+    }
+    .fs{
+        font-size: 12px;
+    }
+    .input{
+    border: none;
+    width: 100%;
+    }
+    .img2{
+        width: 10px;
+        height: auto;
+    }
+    .img3{
+        width: 20px;
+        height: auto;
+    }
+    .fs1{
+        font-size: 20px;
+    }
+    .fs3{
+        font-size: 15px;
+    }
+}
